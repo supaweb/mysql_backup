@@ -10,4 +10,4 @@ Simply use script name and config file name
 
 ```backup_mysql.sh demo```
 
-You can add as many config files as you want
+You can add as many config files as you want, but you need to run them separately.
